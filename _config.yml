@@ -2,16 +2,16 @@ site: Anshul Garg
 title: Anshul Garg
 greetings: Hello 🌏
 description: >-
-  just a minimalist, personal blog
+  Just a minimalist, personal blog
 lang: en-US
 timezone:  Asia/Kolkata
-repo: https://github.com/anshulg8/Gesko # site repo [optional]
+repo: https://github.com/anshulg8/blog # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 # discus-identifier: powex # replace with your disqus shortname
 
 author:
   name: Anshul
-  bio: just a minimalist, personal blog
+  bio: Just a minimalist, personal blog
   userpicture: 
   username: # general username
   github: anshulg8
@@ -23,7 +23,7 @@ googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;
 
 # URL settings
 url: "https://anshulg8.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+baseurl: "/blog" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
